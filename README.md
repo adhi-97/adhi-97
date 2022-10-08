@@ -1,7 +1,4 @@
-### Hey Adarsh Here 👋
-
-
-<h1 align="center">Hi 👋, I'm Adarsh G Krishnan</h1>
+<h1 align="center">Hey 👋, I'm Adarsh G Krishnan</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
 - 🔭 I’m currently working on **EEG Signals**
